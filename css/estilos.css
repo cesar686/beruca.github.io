@@ -267,7 +267,7 @@ Separador
 .separador{
     width: 100%;
     height: 250px;
-    background-image: url(/pagina-para-joyeria-con-parallax-imagenes/img/separador.jpeg);
+    background-image: url(pagina-para-joyeria-con-parallax-imagenes/img/separador.jpeg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
